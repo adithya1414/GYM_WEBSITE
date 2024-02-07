@@ -1,0 +1,358 @@
+[
+  
+  
+  {
+    "name": "chris evans",
+    "exercises": ["push: decline dumbell press 5 sets 20 reps, 2-3* 3-4",
+  "pull: meadows row 3 sets 12 reps, single arm barbell row 3 sets 8 reps,rear delt fly 3 sets 20 reps",
+ "leg : leg curls 3 sets 8 reps, spider bar squats 6 sets 2*8,inverted leg press 3 sets 8 reps"],
+
+    "dietPlan" : [ " Frequent Feeding - 5-6 feedings per day: 5 whole food meals and 6 whole food snacks",
+    " Calories - Up to 5000 calories per day.",
+    "  Protein Intake - 400 plus grams of protein.",
+    "  Post-Workout Carbs - Carbs within 30 minutes after finishing a workout.Extra fibre rich foods suggested",
+    "  Protein Shakes - compulsory. "]
+},
+
+  {
+    "name": "arnold",
+    "exercises": ["Chest & Back: Bench Press(3-4) Sets 10 Reps ,Incline Bench Press (3-4) Sets 10 Reps", "Shoulders & Arms: Barbell Clean and Press 3-4(Sets) 10 Reps,Dumbbell Lateral Raise  3-4(Sets) 10 Reps","Legs & Lower Back : Squat (3-4) Sets 10 Reps,Lunge (3-4) Sets 10 Reps"],
+    "dietPlan": [
+    " Frequent Feeding - 5-6 feedings per day: 3 whole food meals and 2-3 whole food snacks",
+    " Calories - Up to 5,000 calories per day.",
+    "  Protein Intake - 300 plus grams of protein.",
+    "  Post-Workout Carbs - Carbs within 30 minutes after finishing a workout.",
+    "  Protein Shakes - Use if needed to get in your daily protein. "
+  ]
+  },
+
+
+ {
+    "name": "chris hemsworth",
+    "exercises": ["chest/back/abs: barbell bench press 5 sets 12 reps, dumbell fly 4 sets 12 reps, bent over row 4 sets 12 reps",
+  "legs: barbell squat 5 sets 10 reps, stiff legged deadlift 4 sets 12 reps",
+ "abs and arms: barbell curls 5 sets 15 reps, hammer curls 3 sets 10 reps, sit ups 3 sets 12 reps"],
+
+    "dietPlan" : [ " Frequent Feeding - 5-6 feedings per day: 3 whole food meals and 2-3 whole food snacks",
+    " Calories - Up to 5600 calories per day.",
+    "  Protein Intake - 368 plus grams of protein.",
+    "  Post-Workout Carbs - Carbs within 30 minutes after finishing a workout.Extra fibre rich foods suggested",
+    "  Protein Shakes - suggested. "]
+  },
+
+{
+    "name": "adonis creed",
+    "exercises": ["pull strength workout: deadlift 4 sets 3 reps, bent over row 4 sets 5 reps, weighted chin p 3 sets 6 reps",
+  "push strength workout: bench press 4 sets 3 reps, pec dec fly 3 sets 12 reps, lateral raise 3 sets 12 reps",
+ "legs strength workout: barbell squat 4 sets 3 reps, leg press 3 sets 6 reps,leg extension 3 sets 12 reps"],
+
+    "dietPlan" : [ " Frequent Feeding - 5-6 feedings per day: 3 whole food meals and 2-3 whole food snacks",
+    " Calories - Up to 5300 calories per day.",
+    "  Protein Intake - 342 plus grams of protein.",
+    "  Post-Workout Carbs - Carbs within 30 minutes after finishing a workout.Extra fibre rich foods suggested",
+    "  Protein Shakes - compulsory. "]
+  },
+
+{
+    "name": "batman",
+    "exercises": ["day 1: deadlift 4 sets 3 reps, bent over row 4 sets 5 reps, weighted chin p 3 sets 6 reps",
+  "day 2: bench press 4 sets 3 reps, pec dec fly 3 sets 12 reps, lateral raise 3 sets 12 reps",
+ "day3 : barbell squat 4 sets 3 reps, leg press 3 sets 6 reps,leg extension 3 sets 12 reps"],
+
+    "dietPlan" : [ " Frequent Feeding - 6-7 feedings per day: 3 whole food meals and 4 whole food snacks",
+    " Calories - Up to 4900 calories per day.",
+    "  Protein Intake - 329 plus grams of protein.",
+    "  Post-Workout Carbs - Carbs within 30 minutes after finishing a workout.Extra fibre rich foods suggested",
+    "  Protein Shakes - optional, beneficial if taken. "]
+  },
+
+{
+    "name": "steve reeves",
+    "exercises": ["monday: military press 3 sets 8 reps,bent over barbell row 3 sets 8 reps,ab crunch 3 sets 12reps",
+  "wednesday: deadlift 3 sets 12 reps, dips 3 sets 12 reps, pul ups 3 sets 12 reps",
+ "friday : seated calf raise 3 sets 12 reps, front squats 3 sets 12 reps,hyperextensions 3 sets 12 reps"],
+
+    "dietPlan" : [ " Frequent Feeding - 3-4 feedings per day: 20% protein, 20% fat 60 % carbs diet",
+    " Calories - Up to 4900 calories per day.",
+    "  Protein Intake - 238 plus grams of protein.",
+    "  Post-Workout Carbs - Carbs within 30 minutes after finishing a workout.Extra fibre rich foods suggested",
+    "  Protein Shakes - optional. "]
+  },
+
+{
+    "name": "christian bale",
+    "exercises": ["day 1: deadlift 4 sets 3 reps, bent over row 4 sets 5 reps, weighted chin p 3 sets 6 reps",
+  "day 2: bench press 4 sets 3 reps, pec dec fly 3 sets 12 reps, lateral raise 3 sets 12 reps",
+ "day3 : barbell squat 4 sets 3 reps, leg press 3 sets 6 reps,leg extension 3 sets 12 reps"],
+
+    "dietPlan" : [ " Frequent Feeding - 6-7 feedings per day: 3 whole food meals and 4 whole food snacks",
+    " Calories - Up to 4900 calories per day.",
+    "  Protein Intake - 329 plus grams of protein.",
+    "  Post-Workout Carbs - Carbs within 30 minutes after finishing a workout.Extra fibre rich foods suggested",
+    "  Protein Shakes - optional, beneficial if taken. "]
+  },
+
+{
+    "name": "The 300",
+    "exercises": ["day 1:pull ups 25 reps, deadlift 50 reps, pushups 50 reps",
+  "day 2: floor wipers 50 reps, pull ups 25 reps, pull ups25 reps"],
+
+    "dietPlan" : [ " Frequent Feeding - 5 feedings per day: 3 whole food meals and 4 whole food snacks",
+    " Calories - Up to 5000 calories per day.",
+    "  Protein Intake - 356 plus grams of protein.",
+    "  Post-Workout Carbs - Carbs within 30 minutes after finishing a workout.Extra fibre rich foods suggested",
+    "  Protein Shakes - compulsory, as exercises are moderate for growth. "]
+  },
+
+{
+    "name": "john cena",
+    "exercises": ["legs and calves: seated calf raise 10 sets 20 reps, leg press 5 reps 20 reps,leg extension 4 sets 15 reps",
+  "chest: preacher curl 5 sets 12 reps, standing cable curl 3 sets 12 reps, single arm cable pressdown 3 sets 10 reps",
+ "arms : incline machine press 4 sets 20 reps, pec dec 3 15 reps, bench press 3 sets 10 reps","shoulders: military press 5 sets 10 reps, dumbell lateral raise 3 sets 12 reps, machine lateral raise 5 sets 20 reps"],
+
+    "dietPlan" : [ " Frequent Feeding - 5-6 feedings per day: 4 whole food meals and 3 whole food snacks",
+    " Calories - Up to 4500 calories per day.",
+    "  Protein Intake - 432 plus grams of protein.",
+    "  Post-Workout Carbs - Carbs within 30 minutes after finishing a workout.Extra fibre rich foods suggested",
+    "  Protein Shakes - optional. "]
+  },
+
+  {
+    "name": "adithya",
+    "exercises": ["legs and calves: seated calf raise 10 sets 20 reps, leg press 5 reps 20 reps,leg extension 4 sets 15 reps",
+  "chest: preacher curl 5 sets 12 reps, standing cable curl 3 sets 12 reps, single arm cable pressdown 3 sets 10 reps",
+ "arms : incline machine press 4 sets 20 reps, pec dec 3 15 reps, bench press 3 sets 10 reps","shoulders: military press 5 sets 10 reps, dumbell lateral raise 3 sets 12 reps, machine lateral raise 5 sets 20 reps"],
+
+    "dietPlan" : [ " Frequent Feeding - 5-6 feedings per day: 4 whole food meals and 3 whole food snacks",
+    " Calories - Up to 4500 calories per day.",
+    "  Protein Intake - 432 plus grams of protein.",
+    "  Post-Workout Carbs - Carbs within 30 minutes after finishing a workout.Extra fibre rich foods suggested",
+    "  Protein Shakes - optional. "]
+  },
+
+{
+    "name": "Mountain dog",
+    "exercises": ["push: decline dumbell press 5 sets 20 reps, 2-3* 3-4",
+  "pull: meadows row 3 sets 12 reps, single arm barbell row 3 sets 8 reps,rear delt fly 3 sets 20 reps",
+ "leg : leg curls 3 sets 8 reps, spider bar squats 6 sets 2*8,inverted leg press 3 sets 8 reps"],
+
+    "dietPlan" : [ " Frequent Feeding - 5-6 feedings per day: 5 whole food meals and 6 whole food snacks",
+    " Calories - Up to 5000 calories per day.",
+    "  Protein Intake - 400 plus grams of protein.",
+    "  Post-Workout Carbs - Carbs within 30 minutes after finishing a workout.Extra fibre rich foods suggested",
+    "  Protein Shakes - compulsory. "]
+  },
+
+{
+    "name": "Stephen amell",
+    "exercises": ["day 1 strength:lateral box jump 3 sets 20 reps,trx trainer suspension row 3 sets failure, hanging straight leg raise 3 sets failure",
+  "day 2:active recovery",
+ "day 3 strength : Pallof Press 3 sets failure,,Single Leg Dumbbell Deadlift 3 sets 6 eachside,Standing Cable Chest Fly 3 sets 8 reps,Handstand Pushup 2 sets 6 eachside",
+" day 4: active recovery"],
+
+    "dietPlan" : [ " Frequent Feeding - 5 feedings per day: 4 whole food meals and 6 whole food snacks",
+    " Calories - Up to 5200 calories per day.",
+    "  Protein Intake - 450 plus grams of protein.",
+    "  Post-Workout Carbs - Carbs within 30 minutes after finishing a workout.Extra fibre rich foods suggested",
+    "  Protein Shakes - optional. "]
+  },
+
+{
+    "name": "chris pratt",
+    "exercises": [" day 1-back biceps and abs: Pull Up 3 sets 15 reps, Pull Down 3 sets 12 reps, Hammer Strength Row 4 sets 10 reps, Barbell Curl 5 sets 8 reps",
+  "day 2-chest and triceps:bench press 5 sets 12 reps, incline bench press 3 sets 15 reps, dips 3 sets failure",
+ " day3-legs and core : barbell back squat 6 sets 15 reps, deadlift 4 sets 10 reps, leg curls 3 sets 20 reps, plank 3 sets 20 reps",
+"day 4- : active recovery day",
+" day 5-shoulder and triceps: lateral raise 4 sets 12 reps, front raise 3 sets 15 reps, barbell shrugs 3 sets 20 reps"],
+
+    "dietPlan" : [ " Frequent Feeding - 5 feedings per day: 4 whole food meals and 5 whole food snacks",
+    " Calories - Up to 5200 calories per day.",
+    "  Protein Intake - 400 plus grams of protein.",
+    "  Post-Workout Carbs - Carbs within 30 minutes after finishing a workout.Extra fibre rich foods suggested",
+    "  Protein Shakes - optional,recommended."]
+  },
+{
+    "name": "jason momoa",
+    "exercises": [" day 1-back: medium grip pullup 3 sets 7 reps,closegrip pullup 2 sets 6 reps",
+  "day 2-legs: bodyweight squat 3 sets 12 reps, barbell back squat 2 sets 6 reps, bodyweight jump squat 3 sets 5 reps",
+ " day3-core : burpee 2 sets 7 reps, leap frog 3 sets 5 reps",
+"day 4- arms : barbell military press 2 sets 12 reps, dumbell curls 3 sets 5 reps",
+" day 5-shoulder and triceps:active recovery"],
+
+    "dietPlan" : [ " Frequent Feeding - 5 feedings per day: 4 whole food meals and 5 whole food snacks",
+    " Calories - Up to 5600 calories per day.",
+    "  Protein Intake - 456 plus grams of protein.",
+    "  Post-Workout Carbs - Carbs within 30 minutes after finishing a workout.Extra fibre rich foods suggested",
+    "  Protein Shakes - compulsory."]
+  },
+
+{
+    "name": "brock lesnar",
+    "exercises": [" day 1-chest and triceps: bench press 6 sets 12 reps,dumbell fly 3 sets 8 reps, cable crossovers 3 sets 8 reps",
+  "day 2-back and biceps: wide grip pullup 4 sets 6 reps, deadlift 4 sets 6 reps, hammer curl 3 sets 10 reps",
+ " day3-shoulders :military press 4 sets 10 reps, seated dumbell press 3 sets 10 reps, dumbell front raise 3 sets 10 reps",
+"day 4- legs :leg extension 3 sets 10 reps, leg curl 3 sets 10 reps,leg press 4 sets 6 reps, stiff leg deadlift 4 sets 6 reps"],
+
+    "dietPlan" : [ " Frequent Feeding - 5 feedings per day: 6 whole food meals and 5 whole food snacks",
+    " Calories - Up to 5800 calories per day.",
+    "  Protein Intake - 496 plus grams of protein.",
+    "  Post-Workout Carbs - Carbs within 30 minutes after finishing a workout.Extra fibre rich foods suggested",
+    "  Protein Shakes - compulsory."]
+  },
+
+{
+    "name": "scarlett johansson",
+    "exercises": [" day 1-full body: barbell back squat 5 sets 8 reps,military press 5 sets 8 reps, chin up 3 sets 12 reps",
+  "day 2-fat loss: treadmill warmup 1 set 15mins, pushup 5 sets 5 reps",
+ " day3-full body : trap bar deadlift 5 sets 8 reps,inverted row 3 sets 12 reps, hip thrust 3 sets 12 reps",
+"day 4- : active recovery",
+" day 5-fat loss: treadmill warmup 1 set 15 mins, kettlebell row 5 sets 5 each, dumbell squat 5 sets 5 reps"],
+
+    "dietPlan" : [ " Frequent Feeding - 5 feedings per day: 2 whole food meals and 1 whole food snacks",
+    " Calories - Up to 2000 calories per day.",
+    "  Protein Intake - 140 plus grams of protein.",
+    "  Post-Workout Carbs - Carbs within 30 minutes after finishing a workout.Extra fibre rich foods suggested",
+    "  Protein Shakes - optional, not a requirement."]
+  },
+
+{
+    "name": "bane",
+    "exercises": [" monday: incline barbell press 10 warmup sets 2 working sets , dumbell floor press 5 sets 8 reps",
+  "tuesday: full range squat 10 warmups sets, 5 working sets",
+ " wednesday:rest",
+"thursday: barbell bench press 2 sets 10 reps, tbar 10 warmup sets 2 working sets",
+"friday: seated calf raise: 3 sets 6 reps, single leg press 3 sets 12 reps"],
+
+    "dietPlan" : [ " Frequent Feeding - 5 feedings per day: 3 whole food meals and 4 whole food snacks",
+    " Calories - Up to 4200 calories per day.",
+    "  Protein Intake - 358plus grams of protein.",
+    "  Post-Workout Carbs - Carbs within 30 minutes after finishing a workout.Extra fibre rich foods suggested",
+    "  Protein Shakes - optional, recommended."]
+  },
+
+{
+    "name": "brandon hendrickson",
+    "exercises": ["legs and calves: seated calf raise 10 sets 20 reps, leg press 5 reps 20 reps,leg extension 4 sets 15 reps",
+  "chest: preacher curl 5 sets 12 reps, standing cable curl 3 sets 12 reps, single arm cable pressdown 3 sets 10 reps",
+ "arms : incline machine press 4 sets 20 reps, pec dec 3 15 reps, bench press 3 sets 10 reps","shoulders: military press 5 sets 10 reps, dumbell lateral raise 3 sets 12 reps, machine lateral raise 5 sets 20 reps"],
+
+    "dietPlan" : [ " Frequent Feeding - 5-6 feedings per day: 4 whole food meals and 3 whole food snacks",
+    " Calories - Up to 4500 calories per day.",
+    "  Protein Intake - 432 plus grams of protein.",
+    "  Post-Workout Carbs - Carbs within 30 minutes after finishing a workout.Extra fibre rich foods suggested",
+    "  Protein Shakes - optional. "]
+  },
+
+{
+    "name": "reg park",
+    "exercises": [" workout a: squats 5 sets 5 reps, pullups 5 sets 5 reps, bench press 5 sets 5 reps, forearm grip work 2 sets 10 reps, calf excersie 2 sets 15 reps",
+ "workout b: front squats 5 sets 5 reps,barbell rows 5 sets 5 reps, standing military press 5 sets 5 reps, deadlifts 3 sets 5 reps"],
+
+    "dietPlan" : [ " Frequent Feeding - 5 feedings per day: 4 whole food meals and 3 whole food snacks",
+    " Calories - Up to 3800 calories per day.",
+    "  Protein Intake - 265 plus grams of protein.",
+    "  Post-Workout Carbs - Carbs within 30 minutes after finishing a workout.Extra fibre rich foods suggested",
+    "  Protein Shakes - optional."]
+  },
+
+{
+    "name": "henry cavil",
+    "exercises": [" day 1-: barbell squats 5 sets 8 reps, romaninam deadlift 3 sets 10 reps, pallof press 3 ts 15 each",
+  "day 2-: bench press 5 sets 8 reps, dumbell rows 5 sets 10 reps, dips 3 sets 15 reps",
+ " day3-shoulders :military press 4 sets 10 reps, seated dumbell press 3 sets 10 reps, dumbell front raise 3 sets 10 reps",
+"day 4- legs :leg extension 3 sets 10 reps, leg curl 3 sets 10 reps,leg press 4 sets 6 reps, stiff leg deadlift 4 sets 6 reps"],
+
+    "dietPlan" : [ " Frequent Feeding - 5 feedings per day: 5 whole food meals and 5 whole food snacks",
+    " Calories - Up to 4800 calories per day.",
+    "  Protein Intake - 396 plus grams of protein.",
+    "  Post-Workout Carbs - Carbs within 30 minutes after finishing a workout.Extra fibre rich foods suggested",
+    "  Protein Shakes - often recommended."]
+  },
+  {
+    "name": "superman",
+    "exercises": [" day 1-: barbell squats 5 sets 8 reps, romaninam deadlift 3 sets 10 reps, pallof press 3 ts 15 each",
+  "day 2-: bench press 5 sets 8 reps, dumbell rows 5 sets 10 reps, dips 3 sets 15 reps",
+ " day3-shoulders :military press 4 sets 10 reps, seated dumbell press 3 sets 10 reps, dumbell front raise 3 sets 10 reps",
+"day 4- legs :leg extension 3 sets 10 reps, leg curl 3 sets 10 reps,leg press 4 sets 6 reps, stiff leg deadlift 4 sets 6 reps"],
+
+    "dietPlan" : [ " Frequent Feeding - 5 feedings per day: 5 whole food meals and 5 whole food snacks",
+    " Calories - Up to 4800 calories per day.",
+    "  Protein Intake - 396 plus grams of protein.",
+    "  Post-Workout Carbs - Carbs within 30 minutes after finishing a workout.Extra fibre rich foods suggested",
+    "  Protein Shakes - often recommended."]
+  },
+
+{
+    "name": "hulk",
+    "exercises": [" day 1-: incline barbell bench press 2 warm up sets 3 working sets",
+  "day 2-: barbell curls10 warmup sets 4 working sets",
+ " day3-: incline situps 3 sets 12 reps, seated calf raise 4 sets 8 reps",
+"day 4- legs :active recovery"],
+
+    "dietPlan" : [ " Frequent Feeding - 5 feedings per day: 6 whole food meals and 5 whole food snacks",
+    " Calories - Up to 5800 calories per day.",
+    "  Protein Intake - 496 plus grams of protein.",
+    "  Post-Workout Carbs - Carbs within 30 minutes after finishing a workout.Extra fibre rich foods suggested",
+    "  Protein Shakes - compulsory."]
+  },
+
+{
+    "name": "huge jackman",
+    "exercises": [" day 1-: incline dumbell press 3 sets 10 reps, military press 1 set 10 reps,hanging leg raise 3 sets 8 reps",
+  "day 2-: barbell curl 3 sets 12 reps, leg press 4 sets 8 reps, incline situp 2 sets 12 reps",
+ " day3- :military press 4 sets 10 reps, seated dumbell press 3 sets 10 reps, dumbell front raise 3 sets 10 reps",
+"day 4- :active recovery"],
+
+    "dietPlan" : [ " Frequent Feeding - 5 feedings per day: 4 whole food meals and 5 whole food snacks",
+    " Calories - Up to 3000 calories per day.",
+    "  Protein Intake - 190 plus grams of protein.",
+    "  Post-Workout Carbs - Carbs within 30 minutes after finishing a workout.Extra fibre rich foods suggested",
+    "  Protein Shakes - compulsory."]
+  },
+
+{
+    "name": "the rock",
+    "exercises": [" day 1-legs back and biceps: bench press 6 sets 12 reps,dumbell fly 3 sets 8 reps, cable crossovers 3 sets 8 reps",
+  "day 2-chest shoulders and tricpes: wide grip pullup 4 sets 6 reps, deadlift 4 sets 6 reps, hammer curl 3 sets 10 reps",
+ " day3-: active recovery",
+"day 4- legs :leg extension 3 sets 10 reps, leg curl 3 sets 10 reps,leg press 4 sets 6 reps, stiff leg deadlift 4 sets 6 reps"],
+
+    "dietPlan" : [ " Frequent Feeding - 5 feedings per day: 6 whole food meals and 5 whole food snacks",
+    " Calories - Up to 4280 calories per day.",
+    "  Protein Intake - 348 plus grams of protein.",
+    "  Post-Workout Carbs - Carbs within 30 minutes after finishing a workout.Extra fibre rich foods suggested",
+    "  Protein Shakes - compulsory."]
+  },
+
+{
+    "name": "mark wahlberg",
+    "exercises": [" day 1-chest and triceps: bench press 6 sets 12 reps,dumbell fly 3 sets 8 reps, cable crossovers 3 sets 8 reps",
+  "day 2-back and biceps: wide grip pullup 4 sets 6 reps, deadlift 4 sets 6 reps, hammer curl 3 sets 10 reps",
+ " day3-shoulders :military press 4 sets 10 reps, seated dumbell press 3 sets 10 reps, dumbell front raise 3 sets 10 reps",
+"day 4- legs :leg extension 3 sets 10 reps, leg curl 3 sets 10 reps,leg press 4 sets 6 reps, stiff leg deadlift 4 sets 6 reps"],
+
+    "dietPlan" : [ " Frequent Feeding - 5 feedings per day: 6 whole food meals and 5 whole food snacks",
+    " Calories - Up to 5800 calories per day.",
+    "  Protein Intake - 496 plus grams of protein.",
+    "  Post-Workout Carbs - Carbs within 30 minutes after finishing a workout.Extra fibre rich foods suggested",
+    "  Protein Shakes - compulsory."]
+  },
+
+{
+    "name": "ryan renolds",
+    "exercises": [" day 1-legs: squat 5 sets 5 reps, shelc 3 sets 12 reps, lateral lunge 3 sets 12 reps",
+  "day 2- chest and triceps: bench press 5 sets 5 reps, cable fly 3 sets 12 reps, dip 3 sets 12 reps",
+ " day 3- :rest",
+"day 4- back and biceps: barbell bench press 2 sets 10 reps, tbar 10 warmup sets 2 working sets",
+"day 5- light cardio and carbs:turksih getups 3 sets 8 reps,plank 3 sets 60 secs, ab crunch 3 sets 20 reps"],
+
+    "dietPlan" : [ " Frequent Feeding - 5 feedings per day: 3 whole food meals and 3 whole food snacks",
+    " Calories - Up to 3200 calories per day.",
+    "  Protein Intake - 158plus grams of protein.",
+    "  Post-Workout Carbs - Carbs within 30 minutes after finishing a workout.Extra fibre rich foods suggested",
+    "  Protein Shakes - optional, recommended."]
+  },
+
+ 
+  {}
+]
